@@ -1,5 +1,5 @@
 alert(`ola mundo!`);
-let numeroSecreto = 4;
+let numeroSecreto = 8;
 console.log (`o numero secreto eh ${numeroSecreto}`);
 let chute;
 let tentativas = 1;
